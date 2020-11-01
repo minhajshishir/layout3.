@@ -1,0 +1,107 @@
+.header{
+overflow: hidden;
+}
+.header1{
+    min-height: 200px;
+    background-color: grey;
+    width: 49%;
+    float: left;
+    border: 5px solid white;
+}
+.header2{
+	 min-height: 200px;
+    background-color: grey;
+    width: 49%;
+    float: left;
+    border: 5px solid white;
+}
+.box{
+	overflow: hidden;
+	border: 5px solid white;
+}
+.midle1{
+
+	 min-height: 400px;
+    background-color: grey;
+    width: 33%;
+    float: left;
+    border: 5px solid white;
+}
+.midle2{
+
+	 min-height: 400px;
+    background-color: grey;
+    width: 33%;
+    float: left;
+    border: 5px solid white;
+}
+.midle3{
+
+	 min-height: 400px;
+    background-color: grey;
+    width: 32%;
+    float: left;
+    border: 5px solid white;
+}
+.footer{
+	overflow: hidden;
+
+}
+.footer1{
+	 min-height: 200px;
+    background-color: grey;
+    width: 49%;
+    float: left;
+    border: 5px solid white;
+
+}
+.footer2{
+	 min-height: 200px;
+    background-color: grey;
+    width: 49%;
+    float: left;
+    border: 5px solid white;
+
+
+}
+
+h1{
+	text-align: center;
+	margin-top: 30px;
+	color: white;
+}
+h2{
+	text-align: center;
+	margin-top: 30px;
+	color: white;
+}
+h3{
+	text-align: center;
+	margin-top: 90px;
+	color: white;
+	font-size: 15px;
+}
+h4{
+	text-align: center;
+	margin-top: 90px;
+	color: white;
+	font-size: 15px;
+}
+h5{
+	text-align: center;
+	margin-top: 90px;
+	color: white;
+	font-size: 15px;
+}
+h6{
+	text-align: center;
+	margin-top: 30px;
+	color: white;
+	font-size: 1em;
+}
+p{
+	text-align: center;
+	margin-top: 30px;
+	color: white;
+	font-size: 1em;
+}
